@@ -506,10 +506,6 @@ cargo test -- --nocapture --test-threads=1
 
 MIT License - See LICENSE file for details
 
-## Support & Contributions
-
-For issues, feature requests, or contributions, please visit the [GitHub repository](https://github.com/nova-route/nova-contracts).
-
 ## Resources
 
 - [Soroban Documentation](https://developers.stellar.org/docs/learn/smart-contracts)
@@ -519,6 +515,6 @@ For issues, feature requests, or contributions, please visit the [GitHub reposit
 
 ---
 
-**NovaRoute Smart Contracts v1.0.0** | Grant Submission PoC for GrantFox
+**NovaRoute Smart Contracts v1.0.0**
 
 Build on Stellar. Route Optimally. Trade Efficiently.
